@@ -1,0 +1,6 @@
+/home/hacker69i/Desktop/a/llvm-project/clang-tools-extra/CyclomaticComplexity/build/CMakeFiles/intrinsics_gen.dir
+/home/hacker69i/Desktop/a/llvm-project/clang-tools-extra/CyclomaticComplexity/build/CMakeFiles/omp_gen.dir
+/home/hacker69i/Desktop/a/llvm-project/clang-tools-extra/CyclomaticComplexity/build/CMakeFiles/acc_gen.dir
+/home/hacker69i/Desktop/a/llvm-project/clang-tools-extra/CyclomaticComplexity/build/CMakeFiles/CyclomaticComplexity.dir
+/home/hacker69i/Desktop/a/llvm-project/clang-tools-extra/CyclomaticComplexity/build/CMakeFiles/edit_cache.dir
+/home/hacker69i/Desktop/a/llvm-project/clang-tools-extra/CyclomaticComplexity/build/CMakeFiles/rebuild_cache.dir
